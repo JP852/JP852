@@ -39,17 +39,17 @@ I am a Data Analyst specialising in Tableau, Alteryx and SQL analytical solution
 
 |Challenge|My Solution|SQL Techniques Used|
 |:-----------------------------------------|:-|:-|
-|SQL_Murder_Mystery|https://github.com/JP852/SQL_Murder_Mystery|Table Joins, Where Clause
+|SQL_Murder_Mystery|https://github.com/JP852/SQL_Murder_Mystery|Table Joins, Where Clause, Order By, Limit
 |CS1_DANNYS_DINER|https://github.com/JP852/CS1_DANNYS_DINER|CTEs, Table Joins, Aggregation, Group By, Order By, Limit, Where Clause
-|CS2_PIZZA_RUNNER_PART_A|https://github.com/JP852/CS2_PIZZA_RUNNER_PART_A|Table Joins, Aggregation, Group By, Order By, Limit, Where Clause
-|CS2_PIZZA_RUNNER_PART_B|https://github.com/JP852/CS2_PIZZA_RUNNER_PART_B|CTEs, Table Joins, Aggregation, Group By, Order By, Where Clause
-|Data_With_Danny_Foodie-Fi-Sections-AandB|https://github.com/JP852/Data_With_Danny_Foodie-Fi-Sections-AandB|CTEs, Table Joins, Aggregation, Group By, Order By, Limit, Where Clause, Case Statement, Round Function
+|CS2_PIZZA_RUNNER_PART_A|https://github.com/JP852/CS2_PIZZA_RUNNER_PART_A|Table Joins, Aggregation, Group By, Order By, Limit, Where Clause, Is Not Null Function
+|CS2_PIZZA_RUNNER_PART_B|https://github.com/JP852/CS2_PIZZA_RUNNER_PART_B|CTEs, Table Joins, Aggregation, Group By, Order By, Where Clause, Data Type Changes, Left Function, Max Function, Min Function
+|Data_With_Danny_Foodie-Fi-Sections-AandB|https://github.com/JP852/Data_With_Danny_Foodie-Fi-Sections-AandB|CTEs, Table Joins, Aggregation, Group By, Where Clause, Case Statement, Round Function
 |Preppin-Data-2023-Week-1-The-Data-Source-Bank|https://github.com/JP852/Preppin-Data-2023-Week-1-The-Data-Source-Bank|Aggregation, Group By, Order By, Left Function, Right Function, To_Date Function 
-|Preppin-Data-2023-Week-2-International-Bank-Account|https://github.com/JP852/Preppin-Data-2023-Week-2-International-Bank-Account|Table Joins, Where Clause, Case Statement, Length Function, Replace Function 
-|Preppin-Data-2023-Week-3-Targets_for_DSB|https://github.com/JP852/Preppin-Data-2023-Week-3-Targets_for_DSB|CTEs, Table Joins, Aggregation, Group By, Where Clause, Case Statement, Date Function, Unpivot
-|Preppin-Data-2023-Week-4-New-Customers|https://github.com/JP852/Preppin-Data-2023-Week-4-New-Customers|CTEs, Table Joins, Order By, Where Clause, Date_Part Function, Max Function, Pivot 
+|Preppin-Data-2023-Week-2-International-Bank-Account|https://github.com/JP852/Preppin-Data-2023-Week-2-International-Bank-Account|Table Joins, Case Statement, Length Function, Replace Function 
+|Preppin-Data-2023-Week-3-Targets_for_DSB|https://github.com/JP852/Preppin-Data-2023-Week-3-Targets_for_DSB|CTEs, Table Joins, Aggregation, Group By, Where Clause, Case Statement, Date Function, Unpivot, Data Type Changes
+|Preppin-Data-2023-Week-4-New-Customers|https://github.com/JP852/Preppin-Data-2023-Week-4-New-Customers|CTEs, Order By, Where Clause, Date_Part Function, Max Function, Pivot, Max Function, In Function
 |Preppin-Data-2023-Week-5-DBS-Ranking|https://github.com/JP852/Preppin-Data-2023-Week-5-DBS-Ranking|CTEs, Table Joins, Aggregation, Group By, Order By, Date Function 
-|Preppin-Data-2023-Week-6-DSB-Customer-Ratings|https://github.com/JP852/Preppin-Data-2023-Week-6-DSB-Customer-Ratings|CTEs, Aggregation, Group By, Where Clause, In Function, Unpivot
+|Preppin-Data-2023-Week-6-DSB-Customer-Ratings|https://github.com/JP852/Preppin-Data-2023-Week-6-DSB-Customer-Ratings|CTEs, Aggregation, Group By, Where Clause, Case Statements, In Function, Unpivot
 
 
 
