@@ -1,4 +1,4 @@
-# Hi, I'm John 👋
+# 👋 John P (JP852) 
 
 I am a Data Analyst specialising in Tableau, Alteryx and SQL analytical solutions. I am currently based in London and have over 4 years experience in Data Analytics.
 
@@ -6,14 +6,14 @@ I am a Data Analyst specialising in Tableau, Alteryx and SQL analytical solution
 - LinkedIn https://www.linkedin.com/in/john-power-007536216/
 - Tableau Public https://public.tableau.com/app/profile/jp8417/vizzes
 
-## Certifications
+## ⭐ Certifications
 
 - Tableau Certified Data Analyst https://www.credly.com/badges/1710e9ac-213c-4ff3-8c03-ef1bc110ccc7
 - Alteryx Designer Advanced Certification https://www.credly.com/earner/earned/badge/e23457a8-210c-42ab-8412-6c7cad1bafc4
 - Alteryx Designer Core Certification https://www.credly.com/badges/1740cc03-546c-4cac-803b-d6352a81d25a/linked_in_profile
 - Udemy Microsoft Power BI Desktop for Business Intelligence https://www.udemy.com/certificate/UC-f557d467-f658-4e09-8710-33b56fb8f8c2/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com
 
-## Viz Projects
+## 📈 Viz Projects
 
 <a href="https://public.tableau.com/app/profile/jp8417/viz/SolarEnergySeasonOverview/Dashboard">
     <img src="https://public.tableau.com/thumb/views/SolarEnergySeasonOverview/Dashboard" width ="30%">
@@ -35,7 +35,7 @@ I am a Data Analyst specialising in Tableau, Alteryx and SQL analytical solution
     <img src="https://public.tableau.com/thumb/views/StPatricksDaySpendingMakeoverMonday/StPatricksDaySpending" width ="30%">
   </a>
 
-## SQL Projects
+## :bulb: SQL Projects
 
 |Challenge|My Solution|SQL Techniques Used|
 |:-----------------------------------------|:-|:-|
