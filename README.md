@@ -23,6 +23,10 @@ I am a Data Analyst specialising in Tableau, Alteryx and SQL analytical solution
     <img src="https://public.tableau.com/thumb/views/SuperstoreAnnualSummary/SuperstoreAnnualSummary" width ="30%">
   </a>
 
+  <a href="https://public.tableau.com/app/profile/jp8417/viz/HelpDeskWeeklyAnalysis/HelpDeskWeeklyAnalysis">
+    <img src="https://public.tableau.com/thumb/views/HelpDeskWeeklyAnalysis/HelpDeskWeeklyAnalysis" width ="30%">
+  </a>
+
 <a href="https://public.tableau.com/app/profile/jp8417/viz/DartsAllTimeTop20Players/DartsAllTimeTop20Players">
     <img src="https://public.tableau.com/thumb/views/DartsAllTimeTop20Players/DartsAllTimeTop20Players" width ="30%">
   </a>
